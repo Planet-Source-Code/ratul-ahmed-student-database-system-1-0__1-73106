@@ -1,0 +1,485 @@
+<site sitename="index" version="3.0" FullPath="C:\Documents and Settings\Ratul\Desktop\student_db\code\print_html\index.wss"><css/><components/><page id="p39167281" pageindex="0" name="index"><body generator="0" bgsoundloop="-1" align="1" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0"><Component type="2" id="text1" zorder="0" filename="text39180312" left="0" top="0" width="545" height="582" html="" bgcolor="#EFEFEF" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQraAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZUYWhvbWEHVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVO
+YW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFs
+aWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFs
+aWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJv
+dGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFv
+RG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEg
+MCAwIDAgMA0KDQo=
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image39274843" left="6" top="4" width="190" height="230" originwidth="184" originheight="224" src="C:\Documents and Settings\Ratul\Desktop\student_db\code\pics\1812251.jpg" previewfile="C:\Documents and Settings\Ratul\Desktop\student_db\code\pics\1812251.jpg" bgcolor="" borderstyle="1" bordercolor="#C8C8C8" borderwidth="3" alt="" changefilename="0" resample="0" ratio="0" lock="1"/><Component type="15" id="table1" zorder="2" filename="table39734171" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" width="345" height="162" left="199" top="77" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EFEFEF" border=0 bordercolorlight="#EFEFEF" bordercolordark="#EFEFEF"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;ID : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;01&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Ahmed Rizawan Shams Ratul&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;ROLL : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;812251&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;DEPARTMENT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Computer&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;SEMESTER : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;5 th&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PRESENCE : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;80%&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;RESULT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;3.75&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EFEFEF" border=0 bordercolorlight="#EFEFEF" bordercolordark="#EFEFEF"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;ID : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;01&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Ahmed Rizawan Shams Ratul&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;ROLL : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;812251&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;DEPARTMENT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Computer&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;SEMESTER : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;5 th&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PRESENCE : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;80%&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=108 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;RESULT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=222 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;3.75&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoxAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZUYWhvbWEHVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IENz5CAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbAVDb2xvcgQ+X4UAAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAtNjAgMyAzIDAgMiAiMTMxNTg2MDAtMTU3MjQ1Mjct
+MTU3MjQ1MjciIA0KZWRpdHRhYmxlDQoxDQobCwAAVFBGMApUUlZUYWJsZVNXAAdULkNvbG9yBO/v
+7wASVC5UZXh0Um93U2VwYXJhdG9yBgINChJULlRleHRDb2xTZXBhcmF0b3IGAg0KDVQuQm9yZGVy
+Q29sb3IE7+/vABJULkJvcmRlckxpZ2h0Q29sb3IE7+/vAA1ULkJvcmRlclN0eWxlBw9ydnRiUmFp
+c2VkQ29sb3IRVC5DZWxsQm9yZGVyQ29sb3IE7+/vABZULkNlbGxCb3JkZXJMaWdodENvbG9yBO/v
+7wARVC5DZWxsQm9yZGVyU3R5bGUHEHJ2dGJMb3dlcmVkQ29sb3IBQwIHAgIBAgECAQJURAAHQy5D
+b2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJMaWdodENvbG9yBO/v7wAL
+Qy5CZXN0V2lkdGgCbAhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1E
+Q29sb3IE7+/vAAZDLkRhdGEKIAAAABwAAAAtOCAxIDMNCjMgMSAyIDAgMCAwDQpJRCA6IA0KAAAC
+AQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IHB2NsV2hpdGUSQy5Cb3JkZXJM
+aWdodENvbG9yBwdjbFdoaXRlC0MuQmVzdFdpZHRoA94ACEMuVkFsaWduBwlydmNNaWRkbGULQy5X
+UE1CQ29sb3IHB2NsV2hpdGUGQy5EYXRhCh0AAAAZAAAALTggMSAzDQo0IDEgMSAwIDAgMA0KMDEN
+CgAAAgECAQJURAAHQy5Db2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJM
+aWdodENvbG9yBO/v7wALQy5CZXN0V2lkdGgCbAxDLkJlc3RIZWlnaHQCIwhDLlZBbGlnbgcJcnZj
+TWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1EQ29sb3IE7+/vAAZDLkRhdGEKIgAAAB4AAAAt
+OCAxIDMNCjMgMSAyIDAgMCAwDQpOQU1FIDogDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUN
+Qy5Cb3JkZXJDb2xvcgcHY2xXaGl0ZRJDLkJvcmRlckxpZ2h0Q29sb3IHB2NsV2hpdGULQy5CZXN0
+V2lkdGgD3gAMQy5CZXN0SGVpZ2h0AiMIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUJDb2xvcgcH
+Y2xXaGl0ZQZDLkRhdGEKNgAAADIAAAAtOCAxIDMNCjQgMiAxIDAgMCAwDQpBaG1lZCBSaXphd2Fu
+IFNoYW1zIFJhdHVsDQoNCgAAAgECAQJURAAHQy5Db2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9y
+BO/v7wASQy5Cb3JkZXJMaWdodENvbG9yBO/v7wALQy5CZXN0V2lkdGgCbAhDLlZBbGlnbgcJcnZj
+TWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1EQ29sb3IE7+/vAAZDLkRhdGEKIgAAAB4AAAAt
+OCAxIDMNCjMgMSAyIDAgMCAwDQpST0xMIDogDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUN
+Qy5Cb3JkZXJDb2xvcgcHY2xXaGl0ZRJDLkJvcmRlckxpZ2h0Q29sb3IHB2NsV2hpdGULQy5CZXN0
+V2lkdGgD3gAIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUJDb2xvcgcHY2xXaGl0ZQZDLkRhdGEK
+IQAAAB0AAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQo4MTIyNTENCgAAAgECAQJURAAHQy5Db2xvcgcH
+Y2xXaGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJMaWdodENvbG9yBO/v7wALQy5CZXN0
+V2lkdGgCbAhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1EQ29sb3IE
+7+/vAAZDLkRhdGEKKAAAACQAAAAtOCAxIDMNCjMgMSAyIDAgMCAwDQpERVBBUlRNRU5UIDogDQoA
+AAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3JkZXJDb2xvcgcHY2xXaGl0ZRJDLkJvcmRl
+ckxpZ2h0Q29sb3IHB2NsV2hpdGULQy5CZXN0V2lkdGgD3gAIQy5WQWxpZ24HCXJ2Y01pZGRsZQtD
+LldQTUJDb2xvcgcHY2xXaGl0ZQZDLkRhdGEKIwAAAB8AAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQpD
+b21wdXRlcg0KAAACAQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IE7+/vABJD
+LkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJlc3RXaWR0aAJsCEMuVkFsaWduBwlydmNNaWRkbGUL
+Qy5XUE1MQ29sb3IE7+/vAAtDLldQTURDb2xvcgTv7+8ABkMuRGF0YQomAAAAIgAAAC04IDEgMw0K
+MyAxIDIgMCAwIDANClNFTUVTVEVSIDogDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5C
+b3JkZXJDb2xvcgcHY2xXaGl0ZRJDLkJvcmRlckxpZ2h0Q29sb3IHB2NsV2hpdGULQy5CZXN0V2lk
+dGgD3gAIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUJDb2xvcgcHY2xXaGl0ZQZDLkRhdGEKHwAA
+ABsAAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQo1IHRoDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hp
+dGUNQy5Cb3JkZXJDb2xvcgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xvcgTv7+8AC0MuQmVzdFdpZHRo
+AmwIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUxDb2xvcgTv7+8AC0MuV1BNRENvbG9yBO/v7wAG
+Qy5EYXRhCiYAAAAiAAAALTggMSAzDQozIDEgMiAwIDAgMA0KUFJFU0VOQ0UgOiANCgAAAgECAQJU
+RAAHQy5Db2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9yBwdjbFdoaXRlEkMuQm9yZGVyTGlnaHRD
+b2xvcgcHY2xXaGl0ZQtDLkJlc3RXaWR0aAPeAAhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNQkNv
+bG9yBwdjbFdoaXRlBkMuRGF0YQoeAAAAGgAAAC04IDEgMw0KNCAxIDEgMCAwIDANCjgwJQ0KAAAC
+AQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IE7+/vABJDLkJvcmRlckxpZ2h0
+Q29sb3IE7+/vAAtDLkJlc3RXaWR0aAJsCEMuVkFsaWduBwlydmNNaWRkbGULQy5XUE1MQ29sb3IE
+7+/vAAtDLldQTURDb2xvcgTv7+8ABkMuRGF0YQokAAAAIAAAAC04IDEgMw0KMyAxIDIgMCAwIDAN
+ClJFU1VMVCA6IA0KAAACAQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IHB2Ns
+V2hpdGUSQy5Cb3JkZXJMaWdodENvbG9yBwdjbFdoaXRlC0MuQmVzdFdpZHRoA94ACEMuVkFsaWdu
+BwlydmNNaWRkbGULQy5XUE1CQ29sb3IHB2NsV2hpdGUGQy5EYXRhCh8AAAAbAAAALTggMSAzDQo0
+IDEgMSAwIDAgMA0KMy43NQ0KAAAAAAA=
+</rvf></Component><Component type="2" id="text2" zorder="3" filename="text40259250" left="206" top="27" width="332" height="35" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font face="Tahoma" style="font-size:21px;"&gt;Student Information&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font face="Tahoma" class="ws16"&gt;Student Information&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrhAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZUYWhvbWEHVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCEAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4B
+CVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50
+ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtS
+aWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5h
+bWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVj
+dBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAA
+AA4AMyAxIDIgMCAwIDANClN0dWRlbnQgSW5mb3JtYXRpb24NCg==
+</rvf></Component><Component type="15" id="table2" zorder="4" filename="table40468421" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" width="540" height="270" left="4" top="236" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EFEFEF" border=0 bordercolorlight="#EFEFEF" bordercolordark="#EFEFEF"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;FATHERS NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;01&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=40 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;MOTHERS NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=40 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Ahmed Rizawan Shams Ratul&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;DATE OF BIRTH : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;812251&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PRESENT ADDRESS : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Computer&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PERMANENT ADDRESS : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;5 th&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;LAST CIRTIFICATE : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;80%&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;LAST PAYMENT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;3.75&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EFEFEF" border=0 bordercolorlight="#EFEFEF" bordercolordark="#EFEFEF"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;FATHERS NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;01&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=40 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;MOTHERS NAME : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=40 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Ahmed Rizawan Shams Ratul&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;DATE OF BIRTH : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;812251&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PRESENT ADDRESS : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=36 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;Computer&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;PERMANENT ADDRESS : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;5 th&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;LAST CIRTIFICATE : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=34 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;80%&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=192 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#373E42"&gt;&lt;B&gt;LAST PAYMENT : &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=333 height=35 bgcolor="#FFFFFF" valign=middle&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#3E5F85"&gt;3.75&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoxAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZUYWhvbWEHVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IENz5CAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbAVDb2xvcgQ+X4UAAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAtNjAgMyAzIDAgMiAiMTMxNTg2MDAtMTU3MjQ1Mjct
+MTU3MjQ1MjciIA0KZWRpdHRhYmxlDQoxDQouDAAAVFBGMApUUlZUYWJsZVNXAAdULkNvbG9yBO/v
+7wASVC5UZXh0Um93U2VwYXJhdG9yBgINChJULlRleHRDb2xTZXBhcmF0b3IGAg0KDVQuQm9yZGVy
+Q29sb3IE7+/vABJULkJvcmRlckxpZ2h0Q29sb3IE7+/vAA1ULkJvcmRlclN0eWxlBw9ydnRiUmFp
+c2VkQ29sb3IRVC5DZWxsQm9yZGVyQ29sb3IE7+/vABZULkNlbGxCb3JkZXJMaWdodENvbG9yBO/v
+7wARVC5DZWxsQm9yZGVyU3R5bGUHEHJ2dGJMb3dlcmVkQ29sb3IBQwIHAgIBAgECAQJURAAHQy5D
+b2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJMaWdodENvbG9yBO/v7wAL
+Qy5CZXN0V2lkdGgDwAAMQy5CZXN0SGVpZ2h0AiQIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUxD
+b2xvcgTv7+8AC0MuV1BNRENvbG9yBO/v7wAGQy5EYXRhCioAAAAmAAAALTggMSAzDQozIDEgMiAw
+IDAgMA0KRkFUSEVSUyBOQU1FIDogDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3Jk
+ZXJDb2xvcgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xvcgTv7+8AC0MuQmVzdFdpZHRoA00BDEMuQmVz
+dEhlaWdodAIkCEMuVkFsaWduBwlydmNNaWRkbGULQy5XUE1MQ29sb3IE7+/vAAtDLldQTURDb2xv
+cgTv7+8ABkMuRGF0YQodAAAAGQAAAC04IDEgMw0KNCAxIDEgMCAwIDANCjAxDQoAAAIBAgECVEQA
+B0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3JkZXJDb2xvcgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xvcgTv
+7+8AC0MuQmVzdFdpZHRoA8AADEMuQmVzdEhlaWdodAIoCEMuVkFsaWduBwlydmNNaWRkbGULQy5X
+UE1MQ29sb3IE7+/vAAtDLldQTURDb2xvcgTv7+8ABkMuRGF0YQoqAAAAJgAAAC04IDEgMw0KMyAx
+IDIgMCAwIDANCk1PVEhFUlMgTkFNRSA6IA0KAAACAQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMu
+Qm9yZGVyQ29sb3IE7+/vABJDLkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJlc3RXaWR0aANNAQxD
+LkJlc3RIZWlnaHQCKAhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1E
+Q29sb3IE7+/vAAZDLkRhdGEKNAAAADAAAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQpBaG1lZCBSaXph
+d2FuIFNoYW1zIFJhdHVsDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3JkZXJDb2xv
+cgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xvcgTv7+8AC0MuQmVzdFdpZHRoA8AADEMuQmVzdEhlaWdo
+dAIiCEMuVkFsaWduBwlydmNNaWRkbGULQy5XUE1MQ29sb3IE7+/vAAtDLldQTURDb2xvcgTv7+8A
+BkMuRGF0YQorAAAAJwAAAC04IDEgMw0KMyAxIDIgMCAwIDANCkRBVEUgT0YgQklSVEggOiANCgAA
+AgECAQJURAAHQy5Db2xvcgcHY2xXaGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJMaWdo
+dENvbG9yBO/v7wALQy5CZXN0V2lkdGgDTQEMQy5CZXN0SGVpZ2h0AiIIQy5WQWxpZ24HCXJ2Y01p
+ZGRsZQtDLldQTUxDb2xvcgTv7+8AC0MuV1BNRENvbG9yBO/v7wAGQy5EYXRhCiEAAAAdAAAALTgg
+MSAzDQo0IDEgMSAwIDAgMA0KODEyMjUxDQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5C
+b3JkZXJDb2xvcgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xvcgTv7+8AC0MuQmVzdFdpZHRoA8AADEMu
+QmVzdEhlaWdodAIkCEMuVkFsaWduBwlydmNNaWRkbGULQy5XUE1MQ29sb3IE7+/vAAtDLldQTURD
+b2xvcgTv7+8ABkMuRGF0YQotAAAAKQAAAC04IDEgMw0KMyAxIDIgMCAwIDANClBSRVNFTlQgQURE
+UkVTUyA6IA0KAAACAQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IE7+/vABJD
+LkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJlc3RXaWR0aANNAQxDLkJlc3RIZWlnaHQCJAhDLlZB
+bGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1EQ29sb3IE7+/vAAZDLkRhdGEK
+IwAAAB8AAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQpDb21wdXRlcg0KAAACAQIBAlREAAdDLkNvbG9y
+BwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IE7+/vABJDLkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJl
+c3RXaWR0aAPAAAxDLkJlc3RIZWlnaHQCIwhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9y
+BO/v7wALQy5XUE1EQ29sb3IE7+/vAAZDLkRhdGEKLwAAACsAAAAtOCAxIDMNCjMgMSAyIDAgMCAw
+DQpQRVJNQU5FTlQgQUREUkVTUyA6IA0KAAACAQIBAlREAAdDLkNvbG9yBwdjbFdoaXRlDUMuQm9y
+ZGVyQ29sb3IE7+/vABJDLkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJlc3RXaWR0aANNAQxDLkJl
+c3RIZWlnaHQCIwhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9yBO/v7wALQy5XUE1EQ29s
+b3IE7+/vAAZDLkRhdGEKHwAAABsAAAAtOCAxIDMNCjQgMSAxIDAgMCAwDQo1IHRoDQoAAAIBAgEC
+VEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3JkZXJDb2xvcgTv7+8AEkMuQm9yZGVyTGlnaHRDb2xv
+cgTv7+8AC0MuQmVzdFdpZHRoA8AADEMuQmVzdEhlaWdodAIiCEMuVkFsaWduBwlydmNNaWRkbGUL
+Qy5XUE1MQ29sb3IE7+/vAAtDLldQTURDb2xvcgTv7+8ABkMuRGF0YQouAAAAKgAAAC04IDEgMw0K
+MyAxIDIgMCAwIDANCkxBU1QgQ0lSVElGSUNBVEUgOiANCgAAAgECAQJURAAHQy5Db2xvcgcHY2xX
+aGl0ZQ1DLkJvcmRlckNvbG9yBO/v7wASQy5Cb3JkZXJMaWdodENvbG9yBO/v7wALQy5CZXN0V2lk
+dGgDTQEMQy5CZXN0SGVpZ2h0AiIIQy5WQWxpZ24HCXJ2Y01pZGRsZQtDLldQTUxDb2xvcgTv7+8A
+C0MuV1BNRENvbG9yBO/v7wAGQy5EYXRhCh4AAAAaAAAALTggMSAzDQo0IDEgMSAwIDAgMA0KODAl
+DQoAAAIBAgECVEQAB0MuQ29sb3IHB2NsV2hpdGUNQy5Cb3JkZXJDb2xvcgTv7+8AEkMuQm9yZGVy
+TGlnaHRDb2xvcgTv7+8AC0MuQmVzdFdpZHRoA8AADEMuQmVzdEhlaWdodAIjCEMuVkFsaWduBwly
+dmNNaWRkbGULQy5XUE1MQ29sb3IE7+/vAAtDLldQTURDb2xvcgTv7+8ABkMuRGF0YQoqAAAAJgAA
+AC04IDEgMw0KMyAxIDIgMCAwIDANCkxBU1QgUEFZTUVOVCA6IA0KAAACAQIBAlREAAdDLkNvbG9y
+BwdjbFdoaXRlDUMuQm9yZGVyQ29sb3IE7+/vABJDLkJvcmRlckxpZ2h0Q29sb3IE7+/vAAtDLkJl
+c3RXaWR0aANNAQxDLkJlc3RIZWlnaHQCIwhDLlZBbGlnbgcJcnZjTWlkZGxlC0MuV1BNTENvbG9y
+BO/v7wALQy5XUE1EQ29sb3IE7+/vAAZDLkRhdGEKHwAAABsAAAAtOCAxIDMNCjQgMSAxIDAgMCAw
+DQozLjc1DQoAAAAAAA==
+</rvf></Component><Component type="3" id="image2" zorder="5" filename="image41700921" left="5" top="509" width="100" height="60" originwidth="100" originheight="60" src="C:\Documents and Settings\Ratul\Desktop\student_db\code\print_html\images\logo.jpg" previewfile="C:\Documents and Settings\Ratul\Desktop\student_db\code\print_html\images\logo.jpg"/><Component type="2" id="text3" zorder="6" filename="text41726390" left="446" top="534" width="60" height="21" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;U&gt;Signature&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Tahoma"&gt;&lt;U&gt;Signature&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr+AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZUYWhvbWEHVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHCGNsU2lsdmVy
+AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmln
+aHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1y
+dnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU2lnbmF0dXJlDQo=
+</rvf></Component></body></page></site>
